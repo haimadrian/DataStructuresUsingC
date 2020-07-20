@@ -50,3 +50,17 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+.idea/
+*.zip
+*.suo
+*.doc
+*.pptx
+*.txt
+*.db
+*.sln
+*.vcxproj
+*.filters
+Debug/
+cmake-build-debug/
+Exams/
